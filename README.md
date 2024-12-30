@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarveshwari1
+- 👋 Hi, I’m @sarveshwari
 - 👀 I’m interested in coding and testing apps.
 - 🌱 I’m currently learning Github actions, pytest.
 - 💞️ I’m looking to collaborate on chanllenging projects involving complex automation testing oprations.
